@@ -6,7 +6,7 @@ UDEMY COURSE: THE WEB DEVELOPER BOOTCAMP (INSTRUCTOR: COLT STEELE)
 PERSONAL GOOGLE DOC NOTES:
  https://docs.google.com/document/d/1xAvjNA7LJ64D8yiAv7M_IQCeYm4OWUH2_PSM7oA_Ek8/edit?usp=sharing
 
-**SECTION 3: INTRODUCTION TO HTML:** <br />
+**SECTION 3: INTRODUCTION TO HTML:** 
 1. Objectives: <br >
     - Write simple HTML documents <br >
     - Understand the difference between closing & self closing tags <br >
