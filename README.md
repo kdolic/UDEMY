@@ -14,25 +14,25 @@ PERSONAL GOOGLE DOC NOTES:
     - Use MDN as a reference <br >
     - Given an image, write the corresponding HTML <br >
     
- **SECTION 4: INTERMEDIATE HTML:** <br />
- -Objectives: <br />
-    * Write valid HTML Tables
-    * Write validated HTML forms using <form>, <input>, <select>, and <label> tags
-    * Write Simple Validations
+ **SECTION 4: INTERMEDIATE HTML:** 
+ - Objectives: <br >
+     - Write valid HTML Tables <br >
+     - Write validated HTML forms using <form>, <input>, <select>, and <label> tags <br >
+     - Write Simple Validations <br >
     
- **SECTION 5: INTRODUCTION TO CSS:** <br />
--Objectives: <br />
-    * Define the “General Rule” of CSS
-    * Correctly include CSS in your HTML files
-    * Select elements by tag name, class, and ID
-    * Style elements with basic properties like color & background
-    * Use Chrome CSS Inspector to debug HTML & CSS
+ **SECTION 5: INTRODUCTION TO CSS:** <br >
+- Objectives: <br />
+    - Define the “General Rule” of CSS <br >
+    - Correctly include CSS in your HTML files <br >
+    - Select elements by tag name, class, and ID <br >
+    - Style elements with basic properties like color & background <br >
+    - Use Chrome CSS Inspector to debug HTML & CSS <br >
     
- **SECTION 6: INTERMEDIATE CSS:** <br / >
--Objectives: <br / >
-    * Manipulate common font and text properties using CSS
-    * Include external fonts using Google fonts
-    * Define and manipulate the four components of the Box Model
-    * PROJECT: Tic Tac Toe Board
-    * PROJECT: Image Gallery Portfolio Site
-    * EXERCISE: Minimalist Blog Site
+ **SECTION 6: INTERMEDIATE CSS:** 
+- Objectives: <br >
+    - Manipulate common font and text properties using CSS <br >
+    - Include external fonts using Google fonts <br >
+    - Define and manipulate the four components of the Box Model <br >
+    - **PROJECT: Tic Tac Toe Board** <br>
+    - **PROJECT: Image Gallery Portfolio Site** <br >
+    - **EXERCISE: Minimalist Blog Site** <br >
