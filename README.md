@@ -21,7 +21,7 @@ PERSONAL GOOGLE DOC NOTES:
      - Write Simple Validations <br >
     
  **SECTION 5: INTRODUCTION TO CSS:** 
-- Objectives: <br >
+ - Objectives: <br >
     - Define the “General Rule” of CSS <br >
     - Correctly include CSS in your HTML files <br >
     - Select elements by tag name, class, and ID <br >
@@ -29,7 +29,7 @@ PERSONAL GOOGLE DOC NOTES:
     - Use Chrome CSS Inspector to debug HTML & CSS <br >
     
  **SECTION 6: INTERMEDIATE CSS:** 
-- Objectives: <br >
+ - Objectives: <br >
     - Manipulate common font and text properties using CSS <br >
     - Include external fonts using Google fonts <br >
     - Define and manipulate the four components of the Box Model <br >
