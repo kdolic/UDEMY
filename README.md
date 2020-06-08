@@ -17,7 +17,7 @@ PERSONAL GOOGLE DOC NOTES:
  **SECTION 4: INTERMEDIATE HTML:** 
  - Objectives: <br >
      - Write valid HTML Tables <br >
-     - Write validated HTML forms using <form>, <input>, <select>, and <label> tags <br >
+     - Write validated HTML forms using form, input, select, and label tags <br >
      - Write Simple Validations <br >
     
  **SECTION 5: INTRODUCTION TO CSS:** 
