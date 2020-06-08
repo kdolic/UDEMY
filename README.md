@@ -20,8 +20,8 @@ PERSONAL GOOGLE DOC NOTES:
      - Write validated HTML forms using <form>, <input>, <select>, and <label> tags <br >
      - Write Simple Validations <br >
     
- **SECTION 5: INTRODUCTION TO CSS:** <br >
-- Objectives: <br />
+ **SECTION 5: INTRODUCTION TO CSS:** 
+- Objectives: <br >
     - Define the “General Rule” of CSS <br >
     - Correctly include CSS in your HTML files <br >
     - Select elements by tag name, class, and ID <br >
