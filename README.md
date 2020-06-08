@@ -1,4 +1,4 @@
-# HTML-CSS
+# UDEMY
 
 UDEMY COURSE: THE WEB DEVELOPER BOOTCAMP (INSTRUCTOR: COLT STEELE)
 ------------------------------------------------------------------
