@@ -9,10 +9,10 @@ PERSONAL GOOGLE DOC NOTES:
 **SECTION 3: INTRODUCTION TO HTML:** <br />
 1. Objectives: <br >
     - Write simple HTML documents <br >
-    * Understand the difference between closing & self closing tags <br >
-    * Write tags with attributes <br >
-    * Use MDN as a reference <br >
-    * Given an image, write the corresponding HTML <br >
+    - Understand the difference between closing & self closing tags <br >
+    - Write tags with attributes <br >
+    - Use MDN as a reference <br >
+    - Given an image, write the corresponding HTML <br >
     
  **SECTION 4: INTERMEDIATE HTML:** <br />
  -Objectives: <br />
