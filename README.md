@@ -36,3 +36,11 @@ PERSONAL GOOGLE DOC NOTES:
     - **PROJECT: Tic Tac Toe Board** <br>
     - **PROJECT: Image Gallery Portfolio Site** <br >
     - **EXERCISE: Minimalist Blog Site** <br >
+    
+ **SECTION 7: Bootstrap:** 
+ - Objectives: <br >
+    - Define Bootstrap and explain why we use it <br >
+    - Include bootstrap locally and by using a CDN <br >
+    - Use common Bootstrap components like navs and buttons <br >
+    - **PROJECT: Portfolio Site** <br>
+    - **PROJECT: Startup Landing Page** <br >
