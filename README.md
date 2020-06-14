@@ -44,3 +44,11 @@ PERSONAL GOOGLE DOC NOTES:
     - Use common Bootstrap components like navs and buttons <br >
     - **PROJECT: Portfolio Site** <br>
     - **PROJECT: Startup Landing Page** <br >
+    
+ **SECTION 8 & 9: Bootstrap 4:** 
+ - Objectives: <br >
+    - Changes from Bootstrap 3 to v4 <br >
+    - Colors/Backgrounds, Typography, Breakpoints, Padding/Margin Utilities <br >
+    - Flexbox and Layout, Navs, Grid <br >
+    - **PROJECT: Pattern Project** <br>
+    - **PROJECT: Museum of Candy** <br >
