@@ -37,7 +37,7 @@ PERSONAL GOOGLE DOC NOTES:
     - **PROJECT: Image Gallery Portfolio Site** <br >
     - **EXERCISE: Minimalist Blog Site** <br >
     
- **SECTION 7: Bootstrap:** 
+ **SECTION 7: BOOTSTRAP:** 
  - Objectives: <br >
     - Define Bootstrap and explain why we use it <br >
     - Include bootstrap locally and by using a CDN <br >
@@ -45,7 +45,7 @@ PERSONAL GOOGLE DOC NOTES:
     - **PROJECT: Portfolio Site** <br>
     - **PROJECT: Startup Landing Page** <br >
     
- **SECTION 8 & 9: Bootstrap 4:** 
+ **SECTION 8 & 9: BOOTSTRAP 4:** 
  - Objectives: <br >
     - Changes from Bootstrap 3 to v4 <br >
     - Colors/Backgrounds, Typography, Breakpoints, Padding/Margin Utilities <br >
