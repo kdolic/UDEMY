@@ -52,3 +52,55 @@ PERSONAL GOOGLE DOC NOTES:
     - Flexbox and Layout, Navs, Grid <br >
     - **PROJECT: Pattern Project** <br>
     - **PROJECT: Museum of Candy** <br >
+    
+ **SECTION 10: INTRODUCTION TO JAVASCRIPT:** 
+ - Objectives: <br >
+    - Evaluate JS using the developer console <br >
+    - List the 5 JS primitives (explain & define) <br >
+    - Define variables with the var keyword <br >
+    - Write code using console.log, alert, and prompt <br>
+    
+ **SECTION 11: JAVASCRIPT BASICS: CONTROL FLOW:** 
+ - Objectives: <br >
+    - Evaluate complex logical expressions <br >
+    - Write 3-part JS conditional statements <br >
+    - Write JS while loops and for loops <br >
+    - Translate between while and for loops <br>
+  
+ **SECTION 12: JAVASCRIPT BASICS: FUNCTIONS:** 
+ - Objectives: <br >
+    - Write function declarations and function expressions <br >
+    - Explain the difference between console.log and return <br >
+    - Define functions that take multiple arguments <br >
+    
+ **SECTION 13: JAVASCRIPT BASICS: ARRAYS:** 
+ - Objectives: <br >
+    - Define and add data to arrays <br >
+    - Utilize built-in array methods <br >
+    - Exercise: Console To-do List <br >
+    
+ **SECTION 14: JAVASCRIPT BASICS: OBJECTS:** 
+ - Objectives: <br >
+    - Create and Define objects <br >
+    - Retrieve object data through the console <br >
+    - Comparison between Arrays vs. Objects <br >
+    
+ **SECTION 15: DOM MANIPULATION:** 
+ - Objectives: <br >
+    - Define what the DOM is <br >
+    - Understand why DOM Manipulation is awesome <br >
+    - List a few examples of sites that use JS to manipulate the DOM <br >
+    - Understand the SELECT, then MANIPULATE workflow <br >
+    
+ **SECTION 16: ADV. DOM MANIPULATION:** 
+ - Objectives: <br >
+    - DOM Events <br >
+    - The Syntax: addEventListener <br >
+ 
+  **SECTION 17: COLOR GAME PROJECT:** 
+ - Objectives: <br >
+    - **PROJECT:** Game Application( Color Tile Guessing Game) <br >
+    
+    
+    
+    
